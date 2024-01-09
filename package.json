@@ -22,7 +22,7 @@
     "@iamtraction/google-translate": "^2.0.1",
     "@napi-rs/canvas": "^0.1.41",
     "@supabase/storage-js": "^2.5.1",
-    "@supabase/supabase-js": "^2.31.0",
+    "@supabase/supabase-js": "^2.39.1",
     "@waylaidwanderer/fetch-event-source": "^3.0.1",
     "chalk": "^5.3.0",
     "chartjs-to-image": "^1.2.1",
