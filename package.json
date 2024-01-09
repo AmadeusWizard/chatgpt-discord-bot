@@ -34,7 +34,7 @@
     "rabbitmq-client": "^4.1.0",
     "random-words": "^2.0.0",
     "redis": "^4.6.7",
-    "supabase": "^1.82.2",
+    "supabase": "^1.126.1",
     "youtube-transcript": "^1.0.6",
     "yt-search": "^2.10.4"
   }
