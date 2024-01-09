@@ -31,7 +31,7 @@
     "discord.js": "^14.12.1",
     "md5": "^2.3.0",
     "node-fetch": "^3.3.2",
-    "rabbitmq-client": "^4.1.0",
+    "rabbitmq-client": "^4.4.0",
     "random-words": "^2.0.0",
     "redis": "^4.6.7",
     "supabase": "^1.82.2",
